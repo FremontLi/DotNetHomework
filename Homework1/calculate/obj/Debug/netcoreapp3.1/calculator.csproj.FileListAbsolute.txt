@@ -1,0 +1,11 @@
+E:\DotNetHomework\Homework1\calculate\bin\Debug\netcoreapp3.1\calculator.exe
+E:\DotNetHomework\Homework1\calculate\bin\Debug\netcoreapp3.1\calculator.deps.json
+E:\DotNetHomework\Homework1\calculate\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.json
+E:\DotNetHomework\Homework1\calculate\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.dev.json
+E:\DotNetHomework\Homework1\calculate\bin\Debug\netcoreapp3.1\calculator.dll
+E:\DotNetHomework\Homework1\calculate\bin\Debug\netcoreapp3.1\calculator.pdb
+E:\DotNetHomework\Homework1\calculate\obj\Debug\netcoreapp3.1\calculator.AssemblyInfoInputs.cache
+E:\DotNetHomework\Homework1\calculate\obj\Debug\netcoreapp3.1\calculator.AssemblyInfo.cs
+E:\DotNetHomework\Homework1\calculate\obj\Debug\netcoreapp3.1\calculator.dll
+E:\DotNetHomework\Homework1\calculate\obj\Debug\netcoreapp3.1\calculator.pdb
+E:\DotNetHomework\Homework1\calculate\obj\Debug\netcoreapp3.1\calculator.csprojAssemblyReference.cache

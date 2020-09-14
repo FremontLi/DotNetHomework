@@ -1,0 +1,11 @@
+E:\DotNetHomework\Homework1\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+E:\DotNetHomework\Homework1\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+E:\DotNetHomework\Homework1\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+E:\DotNetHomework\Homework1\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+E:\DotNetHomework\Homework1\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+E:\DotNetHomework\Homework1\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+E:\DotNetHomework\Homework1\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+E:\DotNetHomework\Homework1\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+E:\DotNetHomework\Homework1\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+E:\DotNetHomework\Homework1\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+E:\DotNetHomework\Homework1\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb

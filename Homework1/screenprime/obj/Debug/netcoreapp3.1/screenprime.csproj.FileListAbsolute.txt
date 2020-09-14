@@ -1,0 +1,11 @@
+E:\DotNetHomework\Homework1\screenprime\bin\Debug\netcoreapp3.1\screenprime.exe
+E:\DotNetHomework\Homework1\screenprime\bin\Debug\netcoreapp3.1\screenprime.deps.json
+E:\DotNetHomework\Homework1\screenprime\bin\Debug\netcoreapp3.1\screenprime.runtimeconfig.json
+E:\DotNetHomework\Homework1\screenprime\bin\Debug\netcoreapp3.1\screenprime.runtimeconfig.dev.json
+E:\DotNetHomework\Homework1\screenprime\bin\Debug\netcoreapp3.1\screenprime.dll
+E:\DotNetHomework\Homework1\screenprime\bin\Debug\netcoreapp3.1\screenprime.pdb
+E:\DotNetHomework\Homework1\screenprime\obj\Debug\netcoreapp3.1\screenprime.csprojAssemblyReference.cache
+E:\DotNetHomework\Homework1\screenprime\obj\Debug\netcoreapp3.1\screenprime.AssemblyInfoInputs.cache
+E:\DotNetHomework\Homework1\screenprime\obj\Debug\netcoreapp3.1\screenprime.AssemblyInfo.cs
+E:\DotNetHomework\Homework1\screenprime\obj\Debug\netcoreapp3.1\screenprime.dll
+E:\DotNetHomework\Homework1\screenprime\obj\Debug\netcoreapp3.1\screenprime.pdb

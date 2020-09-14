@@ -1,0 +1,11 @@
+E:\DotNetHomework\Homework1\factor\bin\Debug\netcoreapp3.1\factor.exe
+E:\DotNetHomework\Homework1\factor\bin\Debug\netcoreapp3.1\factor.deps.json
+E:\DotNetHomework\Homework1\factor\bin\Debug\netcoreapp3.1\factor.runtimeconfig.json
+E:\DotNetHomework\Homework1\factor\bin\Debug\netcoreapp3.1\factor.runtimeconfig.dev.json
+E:\DotNetHomework\Homework1\factor\bin\Debug\netcoreapp3.1\factor.dll
+E:\DotNetHomework\Homework1\factor\bin\Debug\netcoreapp3.1\factor.pdb
+E:\DotNetHomework\Homework1\factor\obj\Debug\netcoreapp3.1\factor.csprojAssemblyReference.cache
+E:\DotNetHomework\Homework1\factor\obj\Debug\netcoreapp3.1\factor.AssemblyInfoInputs.cache
+E:\DotNetHomework\Homework1\factor\obj\Debug\netcoreapp3.1\factor.AssemblyInfo.cs
+E:\DotNetHomework\Homework1\factor\obj\Debug\netcoreapp3.1\factor.dll
+E:\DotNetHomework\Homework1\factor\obj\Debug\netcoreapp3.1\factor.pdb
