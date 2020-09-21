@@ -1,0 +1,13 @@
+C:\Users\jiaxy\source\repos\homeworks\Homework3\GenericApplication\bin\Debug\GenericApplication.exe.config
+C:\Users\jiaxy\source\repos\homeworks\Homework3\GenericApplication\bin\Debug\GenericApplication.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework3\GenericApplication\bin\Debug\GenericApplication.pdb
+C:\Users\jiaxy\source\repos\homeworks\Homework3\GenericApplication\obj\Debug\GenericList.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework3\GenericApplication\obj\Debug\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework3\GenericApplication\obj\Debug\GenericApplication.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework3\GenericApplication\obj\Debug\GenericApplication.pdb
+E:\大三上\1.Net\作业参考答案\Homework2\GenericApplication\bin\Debug\GenericApplication.exe.config
+E:\大三上\1.Net\作业参考答案\Homework2\GenericApplication\bin\Debug\GenericApplication.exe
+E:\大三上\1.Net\作业参考答案\Homework2\GenericApplication\bin\Debug\GenericApplication.pdb
+E:\大三上\1.Net\作业参考答案\Homework2\GenericApplication\obj\Debug\GenericList.csprojAssemblyReference.cache
+E:\大三上\1.Net\作业参考答案\Homework2\GenericApplication\obj\Debug\GenericApplication.exe
+E:\大三上\1.Net\作业参考答案\Homework2\GenericApplication\obj\Debug\GenericApplication.pdb

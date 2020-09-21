@@ -1,0 +1,6 @@
+E:\大三上\1.Net\作业参考答案\Homework2\clock\bin\Debug\clock.exe.config
+E:\大三上\1.Net\作业参考答案\Homework2\clock\bin\Debug\clock.exe
+E:\大三上\1.Net\作业参考答案\Homework2\clock\bin\Debug\clock.pdb
+E:\大三上\1.Net\作业参考答案\Homework2\clock\obj\Debug\AlarmClock.csprojAssemblyReference.cache
+E:\大三上\1.Net\作业参考答案\Homework2\clock\obj\Debug\clock.exe
+E:\大三上\1.Net\作业参考答案\Homework2\clock\obj\Debug\clock.pdb

@@ -1,0 +1,13 @@
+C:\Users\jiaxy\source\repos\homeworks\Homework3\Shapes\bin\Debug\Homework3.exe.config
+C:\Users\jiaxy\source\repos\homeworks\Homework3\Shapes\bin\Debug\Homework3.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework3\Shapes\bin\Debug\Homework3.pdb
+C:\Users\jiaxy\source\repos\homeworks\Homework3\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework3\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework3\Shapes\obj\Debug\Homework3.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework3\Shapes\obj\Debug\Homework3.pdb
+E:\大三上\1.Net\作业参考答案\Homework2\Shapes\bin\Debug\Homework3.exe.config
+E:\大三上\1.Net\作业参考答案\Homework2\Shapes\bin\Debug\Homework3.exe
+E:\大三上\1.Net\作业参考答案\Homework2\Shapes\bin\Debug\Homework3.pdb
+E:\大三上\1.Net\作业参考答案\Homework2\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+E:\大三上\1.Net\作业参考答案\Homework2\Shapes\obj\Debug\Homework3.exe
+E:\大三上\1.Net\作业参考答案\Homework2\Shapes\obj\Debug\Homework3.pdb
